@@ -1,3 +1,14 @@
+# Nextflow presentation (2019-04-08)
+
+Short presentation about Nextflow and how to get started using it. 
+
+Presentation was created using an older version of [reveal-cljs](https://github.com/n2o/reveal-cljs) and updated to v1.4.0.
+
+Please see requirements below for installing with `$ make web`.
+
+Below are the contents for the reveal-cljs `README.md`:
+
+
 # reveal-cljs
 
 ![Clojure CI](https://github.com/n2o/reveal-cljs/workflows/Clojure%20CI/badge.svg)
