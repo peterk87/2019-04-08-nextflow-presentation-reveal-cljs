@@ -77,7 +77,7 @@
    [:section
     [:h3 style-green "Simple Concurrency"]
     [:p "Easily run things in parallel"]
-    (for [j (range 10)] (for [i (range 10)] (img "assembly.png" height-1em)))]
+    (for [_ (range 10)] (for [_ (range 10)] (img "assembly.png" height-1em)))]
    [:section
     [:h3 style-green "Scalability"]
     (img "pc-to-cluster.png" (style-height 8))
