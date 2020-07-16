@@ -2,6 +2,8 @@
 
 Short presentation about Nextflow and how to get started using it. 
 
+- [View presentation here!](https://peterk87.github.io/2019-04-08-nextflow-presentation-reveal-cljs/)
+
 Presentation was created using an older version of [reveal-cljs](https://github.com/n2o/reveal-cljs) and updated to v1.4.0.
 
 Please see requirements below for installing with `$ make web`.
